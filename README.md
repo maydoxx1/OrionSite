@@ -4,7 +4,7 @@ This project is no longer active and will be archived.
 
 ## Why?
 
-Due to ongoing conflicts between the BASE ROM developer (Martin) and the web development team (Simon and myself), we have decided to discontinue maintenance of this site. We appreciate your understanding.
+Due to ongoing conflicts between the BASE ROM developer (Martin) and the web development team (Simon and myself) [im also known as maintainer of many devices on orion], we have decided to discontinue maintenance of this site. We appreciate your understanding.
 
 ## What should I do?
 
