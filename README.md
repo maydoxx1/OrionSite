@@ -12,4 +12,4 @@ If you want to contribute to similar projects, consider Evolution X, Infinity X,
 
 ## License / Copyright
 
-All rights reserved to Maydo and Simon.
+All rights reserved to Maydo, Simon, Yulian.
